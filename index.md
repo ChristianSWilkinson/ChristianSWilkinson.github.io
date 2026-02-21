@@ -12,20 +12,18 @@ Currently, I manage the **HADES GitLab** repository and contribute to high-impac
 
 ---
 
-## 🛠 Technical Expertise
-* **Programming:** Python (Scientific stack: NumPy, SciPy, Pandas, Matplotlib), Fortran, SQL, R, and MATLAB.
-* **Machine Learning:** Deep learning (PyTorch, TensorFlow), CNNs, and classification algorithms (Random Forest, LightGBM).
-* **Numerical Methods:** Bayesian inference (MCMC, Nested Sampling), complex numerical modeling, and large dataset manipulation.
-* **Tools:** Git, LaTeX, HPC (High-Performance Computing), and Microsoft Excel.
-
----
-
 ## 📚 Selected Publications
 * **Evidence for a sub-Jovian planet in the young TWA7 disk** *Nature (2025)* [arXiv:2502.15081](https://arxiv.org/abs/2502.15081) 
 * **Breaking degeneracies in exoplanetary parameters through self-consistent atmosphere-interior modelling** *Astronomy & Astrophysics (2024)* [arXiv:2410.04470](https://arxiv.org/abs/2410.04470)
 * **GPI+SPHERE detection of a 6.1 M<sub>Jup</sub> circumbinary planet circumbinary planet around HD 143811** *Astronomy & Astrophysics (2025)* [arXiv:2509.06009](https://arxiv.org/abs/2509.06009) 
 * **Multi-headed deep learning models for Exoplanet inversions** *(In prep, 2026)*
-* **A robust numerical framework for giant planet interior modeling** *(In prep, 2026)* 
+* **A robust numerical framework for giant planet interior modeling** *(In prep, 2026)*
+
+---
+
+## 💻 Open Source Software & Projects
+* **[fuzzycore](https://github.com/ChristianSWilkinson/fuzzycore):** A Python model I developed for the interior structure modeling and design of gas giant planets.
+* **[HADES-Git](https://github.com/HADES-Git):** Managing the collaborative GitLab repository for the HADES project, focused on exoplanet modeling[cite: 14].
 
 ---
 
@@ -57,6 +55,14 @@ Currently, I manage the **HADES GitLab** repository and contribute to high-impac
 **Oral Examiner (Physics & English) | IPEsup (Paris) & Lycée Hoche (Versailles)** *Sep 2020 – Jun 2024*
 * Assessed and guided students in high-level physics and English examinations.
 
+---
+
+## 🛠 Technical Expertise
+* **Programming:** Python (Scientific stack: NumPy, SciPy, Pandas, Matplotlib), Fortran, SQL, R, and MATLAB.
+* **Machine Learning:** Deep learning (PyTorch, TensorFlow), CNNs, and classification algorithms (Random Forest, LightGBM).
+* **Numerical Methods:** Bayesian inference (MCMC, Nested Sampling), complex numerical modeling, and large dataset manipulation.
+* **Tools:** Git, LaTeX, HPC (High-Performance Computing), and Microsoft Excel.
+  
 ---
 
 ## 🎓 Education
