@@ -43,6 +43,22 @@ Currently, I manage the **HADES GitLab** repository and contribute to high-impac
 
 ---
 
+## 👨‍🏫 Teaching & Supervision
+
+### **Academic Instruction**
+**Teaching Assistant | Université Paris Cité** *Jan 2023 – Dec 2025*
+* Conducted tutorials and practical sessions in cinematics for first- and second-year undergraduate students.
+* Conducted practical sessions for second year master's students in telecommunications using python.
+
+**Teaching Assistant | Paris Sciences et Lettres (PSL)** *Sep 2023 – Dec 2025*
+* Co-designed and taught a Python programming class for the course "Science pour un monde durable" using OECD economic data.
+* Taught an introductory master's lesson in atmospheric science for astrophysics.
+
+**Oral Examiner (Physics & English) | IPEsup (Paris) & Lycée Hoche (Versailles)** *Sep 2020 – Jun 2024*
+* Assessed and guided students in high-level physics and English examinations.
+
+---
+
 ## 🎓 Education
 * **Master’s in Geoscience** – École Normale Supérieure (ENS) Ulm - PS
 * **Advanced Master’s (Engineering Degree)** – ESPCI Paris - PSL
