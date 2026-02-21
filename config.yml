@@ -1,4 +1,8 @@
-theme: jekyll-theme-minimal
-title: Christian S. Wilkinson
-description: Welcome to my personal portfolio and project showcase.
-show_downloads: false
+title: Dr. Christian Wilkinson
+description: Postdoctoral Researcher at Observatoire de Paris | Exoplanet Modeling & Machine Learning
+google_analytics: # Add your ID here if you have one
+theme: jekyll-theme-architect # Or your preferred theme
+
+# Professional Links
+linkedin_username: christian-s-wilkinson
+github_username: christianswilkinson
