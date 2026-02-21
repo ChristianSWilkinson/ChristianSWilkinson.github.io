@@ -23,7 +23,7 @@ Currently, I manage the **HADES GitLab** repository and contribute to high-impac
 
 ## 💻 Open Source Software & Projects
 * **[fuzzycore](https://github.com/ChristianSWilkinson/fuzzycore):** A Python model I developed for the interior structure modeling and design of gas giant planets.
-* **[HADES-Git](https://github.com/HADES-Git):** Managing the collaborative GitLab repository for the HADES project, focused on exoplanet modeling[cite: 14].
+* **[HADES-Git](https://github.com/HADES-Git):** Managing the collaborative GitLab repository for the HADES project, focused on exoplanet modeling.
 
 ---
 
