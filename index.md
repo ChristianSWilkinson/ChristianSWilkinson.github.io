@@ -42,8 +42,6 @@ Currently, I manage the **HADES GitLab** repository and contribute to high-impac
 ---
 
 ## 👨‍🏫 Teaching & Supervision
-
-### **Academic Instruction**
 **Teaching Assistant | Université Paris Cité** *Jan 2023 – Dec 2025*
 * Conducted tutorials and practical sessions in cinematics for first- and second-year undergraduate students.
 * Conducted practical sessions for second year master's students in telecommunications using python.
