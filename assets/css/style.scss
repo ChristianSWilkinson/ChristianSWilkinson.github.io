@@ -1,0 +1,54 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* 1. Stunning Background Setup */
+body {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  color: #24292e;
+  line-height: 1.6;
+  
+  /* Link to your new background image */
+  background-image: url('../images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; /* Creates a cool parallax scrolling effect */
+}
+
+/* 2. Glassmorphism Content Card (Keeps text readable) */
+/* Note: The exact class name depends on your theme. '.main-content' works for many popular Jekyll themes like Cayman. */
+.main-content, .container-lg, #main_content {
+  background-color: rgba(255, 255, 255, 0.92); /* White with 92% opacity */
+  padding: 3rem;
+  border-radius: 12px; /* Rounded corners */
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5); /* Deep shadow to separate card from space background */
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  max-width: 900px;
+}
+
+/* 3. Typography and Accents */
+h1, h2, h3 {
+  color: #1b365d; 
+  border-bottom: 2px solid #e1e4e8;
+  padding-bottom: 0.3rem;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* 4. Style for publication arXiv links */
+code {
+  background-color: #f3f4f7;
+  padding: 3px 6px;
+  border-radius: 4px;
+  font-family: "Courier New", Courier, monospace;
+  color: #d73a49; /* Adds a nice pop of color to your tech skills and links */
+}
