@@ -16,7 +16,7 @@ Currently, I manage the **HADES GitLab** repository and contribute to high-impac
 * **Programming:** Python (Scientific stack: NumPy, SciPy, Pandas, Matplotlib), Fortran, SQL, R, and MATLAB.
 * **Machine Learning:** Deep learning (PyTorch, TensorFlow), CNNs, and classification algorithms (Random Forest, LightGBM).
 * **Numerical Methods:** Bayesian inference (MCMC, Nested Sampling), complex numerical modeling, and large dataset manipulation.
-* [cite_start]**Tools:** Git, LaTeX, HPC (High-Performance Computing), and Microsoft Excel.
+* **Tools:** Git, LaTeX, HPC (High-Performance Computing), and Microsoft Excel.
 
 ---
 
