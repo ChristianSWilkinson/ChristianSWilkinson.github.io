@@ -6,3 +6,6 @@ theme: jekyll-theme-architect # Or your preferred theme
 # Professional Links
 linkedin_username: christian-s-wilkinson
 github_username: christianswilkinson
+
+remote_theme: pages-themes/architect@v0.2.0 # Or your chosen theme
+custom_css: assets/css/style.scss
