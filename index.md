@@ -31,6 +31,7 @@ Currently, I manage the **HADES GitLab** repository and contribute to high-impac
 **Postdoctoral Researcher | CEA** *Jun 2026 – Present*
 * Understanding acoustic wave propagation from microbaroms in the middle atmosphere.
 * Working collaboratively to build tools to constrain weather models.
+
 **Postdoctoral Researcher | Observatoire de Paris** *Nov 2024 – Jun 2026*
 * Developing novel interior structure models and coupling them with planetary atmospheres.
 * Applying machine learning techniques to large sets of modeled and observed exoplanet data.
