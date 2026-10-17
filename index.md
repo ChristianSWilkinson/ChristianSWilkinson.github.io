@@ -28,7 +28,7 @@ Currently, I manage the **HADES GitLab** repository and contribute to high-impac
 ---
 
 ## 💼 Professional Experience
-**Postdoctoral Researcher | CEA** *Nov 2024 – Jun 2026*
+**Postdoctoral Researcher | CEA** *Jun 2026 – Present*
 * Understanding acoustic wave propagation from microbaroms in the middle atmosphere.
 * Working collaboratively to build tools to constrain weather models.
 **Postdoctoral Researcher | Observatoire de Paris** *Nov 2024 – Jun 2026*
