@@ -16,8 +16,8 @@ Currently, I manage the **HADES GitLab** repository and contribute to high-impac
 * **Evidence for a sub-Jovian planet in the young TWA7 disk** *Nature (2025)* [arXiv:2502.15081](https://arxiv.org/abs/2502.15081) 
 * **Breaking degeneracies in exoplanetary parameters through self-consistent atmosphere-interior modelling** *Astronomy & Astrophysics (2024)* [arXiv:2410.04470](https://arxiv.org/abs/2410.04470)
 * **GPI+SPHERE detection of a 6.1 M<sub>Jup</sub> circumbinary planet circumbinary planet around HD 143811** *Astronomy & Astrophysics (2025)* [arXiv:2509.06009](https://arxiv.org/abs/2509.06009) 
-* **A semi-analytical surrogate model for giant planet evolution: bypassing ordinary differential equation solvers with localised thermodynamics, softplus asymptotes, and B-spline photometry** *Astronomy & Astrophysics (2025)* [2509.06009](https://arxiv.org/abs/2608.29421)
-* **Resolving core-envelope degeneracies in giant planets and sub-Neptunes: constraining the equivalence in the presence of dilute gradients** *Astronomy & Astrophysics (2025)* [2608.29421](https://arxiv.org/abs/2607.16713)
+* **A semi-analytical surrogate model for giant planet evolution: bypassing ordinary differential equation solvers with localised thermodynamics, softplus asymptotes, and B-spline photometry** *Astronomy & Astrophysics (2026)* [2509.06009](https://arxiv.org/abs/2608.29421)
+* **Resolving core-envelope degeneracies in giant planets and sub-Neptunes: constraining the equivalence in the presence of dilute gradients** *Astronomy & Astrophysics (2026)* [2608.29421](https://arxiv.org/abs/2607.16713)
 
 ---
 
