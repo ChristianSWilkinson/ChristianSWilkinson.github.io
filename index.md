@@ -1,5 +1,5 @@
 # Dr. Christian Wilkinson
-**Postdoctoral Researcher at Observatoire de Paris, Meudon** *Specializing in Exoplanetary Interiors, Atmospheres, and Machine Learning*
+**Postdoctoral Researcher at Observatoire de Paris, Meudon** *Specialising in exoplanetary and Earth atmospheres, interiors and data assimilation with machine learning among other tools*
 
 [LinkedIn](https://linkedin.com/in/christian-s-wilkinson) | [Email](mailto:Christian.s.wilkinson@gmail.com) | [GitHub](https://github.com/christianswilkinson)
 
